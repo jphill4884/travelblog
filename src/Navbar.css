@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.navbar-image{
+    max-height: 70px;
+    min-height: 70px;
+}
